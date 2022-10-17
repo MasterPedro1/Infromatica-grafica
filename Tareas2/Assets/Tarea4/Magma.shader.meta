@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7e46e9f183b75f144bd5cc49ec78f83f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _RockTex: {fileID: 2800000, guid: 530a3806bfbe11446a8ec2197974a007, type: 3}
+  - _MagmaTex: {fileID: 2800000, guid: 82a9afc2da470dd408db27346f9d5c6d, type: 3}
+  - _DisTex: {fileID: 2800000, guid: 1338d6be7733e16439ccd91aaf3d9b4d, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

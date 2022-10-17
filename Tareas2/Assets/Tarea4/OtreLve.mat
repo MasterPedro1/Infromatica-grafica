@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: OtreLve
+  m_Shader: {fileID: 4800000, guid: 7e46e9f183b75f144bd5cc49ec78f83f, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DisTex:
+        m_Texture: {fileID: 2800000, guid: 1338d6be7733e16439ccd91aaf3d9b4d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MagmaTex:
+        m_Texture: {fileID: 2800000, guid: 82a9afc2da470dd408db27346f9d5c6d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RockTex:
+        m_Texture: {fileID: 2800000, guid: 530a3806bfbe11446a8ec2197974a007, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _DisSpeed: 0.1
+    - _DisValue: 3
+    - _WaveAplitude: 0
+    - _WaveFrequency: 1
+    - _WaveSpeed: 1
+    m_Colors: []
+  m_BuildTextureStacks: []
